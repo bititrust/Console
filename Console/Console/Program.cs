@@ -10,7 +10,7 @@ namespace Console
     {
         static void Main(string[] args)
         {
-            //Code goes here
+            //Code goes here!
         }
     }
 }
