@@ -11,6 +11,9 @@ namespace Console
         static void Main(string[] args)
         {
             //Code goes here!
+            System.Console.WriteLine("Hello world");
+            System.Console.WriteLine("Press any key to exit.");
+            System.Console.Read();
         }
     }
 }
